@@ -1,0 +1,145 @@
+body{
+    margin: auto;
+    font-size: 30px;
+}
+
+h1{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: #11999E;
+  margin: 0 auto 0 auto;
+  font-family: 'Kalam', cursive;
+}
+
+h2{
+  text-align: center;
+  color: #11999E;
+  margin: 20px auto 0 auto;
+  font-family: 'Kalam', cursive;
+}
+
+h3{
+  text-align: center;
+  color: #11999E;
+  font-family: 'Josefin Slab', serif;
+
+}
+
+p{
+  text-align: center;
+  font-family:sans-serif;
+  font-size: 20px;
+  color: #11999E;
+}
+
+table{
+  align-self: auto;
+  font-family:sans-serif;
+  font-size: 20px;
+  color: #11999E;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  margin: 50px auto auto auto;
+
+
+   }
+
+.middle-container{
+    align-items: center;
+    margin: 0 auto 0 auto;
+    background-color:#E4F9F5 ;
+    position: relative;
+}
+
+.middle-container-2{
+  background-color:#E4F9F5 ;
+}
+
+.middle-container-3{
+
+  background-color:#E4F9F5 ;
+}
+
+.middle-container-4{
+
+  background-color:#E4F9F5 ;
+}
+
+.bottom-container{
+  margin: 0 auto 0 auto;
+  background-color:#E4F9F5 ;
+  position: relative;
+}
+
+.bottom-cloud{
+  display: block;
+  margin-left: auto;
+  margin-right: 500px;
+  position: relative;
+}
+
+.top-cloud{
+  display: block;
+  margin-left:150px;
+  margin-right: auto;
+  padding-top: 50px;
+  position: absolute;
+  padding-left: 220px;
+}
+
+.profile-pic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+}
+
+.bird-2{
+  position: relative;
+  padding-left: 500px;
+}
+
+.snow-mountian{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ContactMe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 400px;
+  padding-top: 150px;
+}
+
+.ContactMe2{
+
+}
+
+.footer{
+  margin: auto auto auto auto;
+  font-size: 20px;
+  height: 250px;
+  background-color:#66BFBF;
+  position: relative;
+}
+
+.footer-child{
+  position: absolute;
+	bottom: 0;
+	left: 0;
+}
