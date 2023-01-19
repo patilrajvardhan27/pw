@@ -130,12 +130,16 @@ hr{
 
 }
 
-.footer{
+.footer-container{
   margin: auto auto auto auto;
   font-size: 20px;
   height: 250px;
   background-color:#66BFBF;
   position: relative;
+}
+
+.tf{
+column-gap: 30px;
 }
 
 .footer-child{
