@@ -62,6 +62,12 @@ a:hover {
   padding: 50px 0 20px;
 }
 
+.skillss{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 50px 0 20px;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
@@ -109,6 +115,8 @@ a:hover {
 .chilli-img {
   width: 25%;
   float: right;
+  background-color: #E4F9F5;
+  position: relative;
   margin-left: 30px;
 }
 
